@@ -47,7 +47,7 @@ async def login(app, m, all_urls, start_time, bname, batch_id, app_name, price=N
         f"├─ 📑 Documents: {doc_count}\n"
         f"└─ 🔐 Protected: {drm_count}\n\n"
         f"🚀 <b>Extracted by:</b> @{(await app.get_me()).username}\n\n"
-        f"<code>╾───• U G  Extractor Pro •───╼</code>"
+        f"<code>╾───• A K  Extractor Pro •───╼</code>"
     )
     
     async with aiofiles.open(file_path, 'w', encoding='utf-8') as f:
@@ -72,7 +72,7 @@ async def handle_iq_logic(app, m):
             "📱 <b>Phone:</b> <code>10-digit number</code>\n"
             "🔑 <b>Token:</b> <code>your_saved_token</code>\n\n"
             "<i>Example:</i>\n"
-            "Phone: <code>9876543210</code>\n"
+            "Phone: <code>9719168804</code>\n"
             "Token: <code>eyJhbGciOiJ...</code>\n\n"
             "💡 <i>Use token to login instantly without OTP</i>"
         )
