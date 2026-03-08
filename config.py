@@ -3,7 +3,7 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "21157244"))
+API_ID = int(os.environ.get("API_ID", "34724970"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","f240eae7c60e8e30c17203ab0e052f7e")
 # ------------------------------------------------
