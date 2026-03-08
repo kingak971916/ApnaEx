@@ -12,7 +12,7 @@ def print_banner():
     banner = f"""
 {Fore.CYAN}╭──────────────────────────────────────╮
 │  {Fore.YELLOW}🔒 Python Code Encryptor/Decryptor {Fore.CYAN} │
-│     {Fore.GREEN}Created by @GodxBots{Fore.CYAN}           │
+│     {Fore.GREEN}Created by @arafta_hindi_dubbed_webseries{Fore.CYAN}           │
 ╰──────────────────────────────────────╯{Style.RESET_ALL}
 """
     print(banner)
