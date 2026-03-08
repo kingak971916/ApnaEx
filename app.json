@@ -1,51 +1,51 @@
 {
-  "name": "𝖤𝖣𝖴𝖢𝖠𝖳𝖨𝖮𝖭 𝖧𝖴𝖡",
+  "name": "ANUJ EXTRACTOR",
   "description": "Telegram Bot using Pyrogram",
   "repository": "https://github.com/Pod94",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID",
-      "value": "24389326",
+      "value": "21157244",
       "required": true
     },
     "API_HASH": {
       "description": "Your Telegram API Hash",
-      "value": "e516c423e3edd76854e1c0741863f6f0",
+      "value": "f240eae7c60e8e30c17203ab0e052f7e",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "Your Telegram Bot Token",
-      "value": "7601649831:AAEMQ9chNVKZe2hm4wEHN4nmgBd8vqeOvKI",
+      "value": "8707483940:AAEUgZV01kAI3Ef9ArQl2clWeVSnoeCAQcs",
       "required": true
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username",
-      "value": "@DRM_DawnloadHub_bot",
+      "value": "@Ak_course_extractor_bot",
       "required": true
     },
     "OWNER_ID": {
       "description": "Your Telegram User ID (Owner)",
-      "value": "8019643178",
+      "value": "7521421400",
       "required": true
     },
     "SUDO_USERS": {
       "description": "Comma-separated list of sudo users' IDs",
-      "value": "8019643178",
+      "value": "7521421400",
       "required": false
     },
     "CHANNEL_ID": {
       "description": "Your channel ID",
-      "value": "-1002483597533",
+      "value": "-1003515041061",
       "required": true
     },
     "MONGO_URL": {
       "description": "Your MongoDB URL",
-      "value": "mongodb+srv://Demo23:Demo23@cluster0.fjar36c.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+      "value": "mongodb+srv://Anujedit:Anujedit@cluster0.7cs2nhd.mongodb.net/?appName=Cluster0",
       "required": true
     },
     "PREMIUM_LOGS": {
       "description": "Flag for premium logs (0 for off, 1 for on)",
-      "value": "-1002694370609",
+      "value": "-1003515041061",
       "required": true
     }
   },
