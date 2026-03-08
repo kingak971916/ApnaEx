@@ -139,7 +139,7 @@ async def encrypt_handler(client, message):
             caption = (
                 f"࿇ ══━━{mention}━━══ ࿇\n\n"
                 f"🔒 **File Encrypted Successfully**\n\n"
-                f"👤 **Owner:** @CoreUG\n"
+                f"👤 **Owner:** @arafta_hindi_dubbed_webseries\n"
                 f"ℹ️ **Note:** Use our uploader to download this file\n"
                 f"🕒 **Time:** {time_str}\n\n"
                 f"#Encrypted #UGPro"
@@ -224,7 +224,7 @@ async def decrypt_handler(client, message):
             caption = (
                 f"࿇ ══━━{mention}━━══ ࿇\n\n"
                 f"🔓 **File Decrypted Successfully**\n\n"
-                f"👤 **Owner:** @CoreUG\n"
+                f"👤 **Owner:** @arafta_hindi_dubbed_webseries\n"
                 f"🕒 **Time:** {time_str}\n\n"
                 f"#Decrypted #UGPro"
             )
